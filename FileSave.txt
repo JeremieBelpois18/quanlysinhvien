@@ -1,0 +1,7 @@
+id: 1 name: a birth date: 1900-01-01 address: hn height: 1.8 weight: 69.1 student code: 0 name school: viu start year: 1900 gpa: 4.0 title WEAK
+id: 2 name: b birth date: 1901-02-02 address: sg height: 1.7 weight: 65.5 student code: 1 name school: hcmu start year: 1901 gpa: 3.0 title POOR
+id: 3 name: c birth date: 1902-03-03 address: dn height: 1.9 weight: 70.2 student code: 2 name school: hanoi start year: 1902 gpa: 2.0 title POOR
+id: 4 name: d birth date: 1903-04-04 address: hue height: 1.75 weight: 68.0 student code: 3 name school: hueuni start year: 1903 gpa: 1.0 title POOR
+id: 5 name: e birth date: 1904-05-05 address: cm height: 1.85 weight: 75.5 student code: 4 name school: hcmut start year: 1904 gpa: 5.0 title WEAK
+id: 6 name: 4231 birth date: 2111-12-12 address: 1234 height: 123.0 weight: 123.0 student code: 1234123412 name school: 41234123 start year: 2144 gpa: 4.0 title WEAK
+id: 7 name: 1324321 birth date: 2111-12-12 address: 234 height: 123.0 weight: 123.0 student code: 1234123411 name school: 1234 start year: 7111 gpa: 5.0 title WEAK
